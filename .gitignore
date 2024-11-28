@@ -1,0 +1,9 @@
+backend/node_modules/
+frontend/node_modules/
+
+ml_model/venv/
+
+backend/dist/
+frontend/dist/
+
+backend/.env

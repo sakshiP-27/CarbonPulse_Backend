@@ -1,9 +1,10 @@
 import './App.css'
+import { Topbar } from './components/Topbar'
 
 function App() {
   return (
     <div>
-      CarbonPulse
+      <Topbar />
     </div>
   )
 }

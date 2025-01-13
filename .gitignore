@@ -7,3 +7,5 @@ backend/dist/
 frontend/dist/
 
 backend/.env
+
+**/.DS_Store
